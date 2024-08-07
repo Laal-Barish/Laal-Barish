@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Laal-Barish
-- 👀 I’m interested in ...La poesía y los libros que tratan sobre el amor
-- 🌱 I’m currently learning ...a programar en algunos lenguajes y siento que es divertido y cansado
+- 👀 I’m interested in ...La poesía y en la oratoria. 
+- 🌱 I’m currently learning ...a programar en algunos lenguajes y siento que es divertido. Actualmente, me interesa mucho el Diseño UX-UI.
 - 💞️ I’m looking to collaborate d ...
 - 📫 How to reach me ...
 
